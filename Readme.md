@@ -1,6 +1,8 @@
 # Raptor [RPTR]
+Raptor is an experiment in decentralized community building. Together we are building a vibrant and growing community with a focus on vertically integrating the Raptor token in all community projects. We are community owned and operated!
+Our community is represented by a deflationary meme token inspired by the dank meme’s that have shaped crypto culture. Our aim is to become a top 100 Crypto whilst building a decentralized community.
 
-Raptor is an experiment in decentralized community building. Our community is represented by a deflationary meme token inspired by the dank meme's that have shaped crypto culture. Our aim is to become a top 100 Crypto whilst building a decentralized community. The Raptor token (symbol: RPTR) has been deployed to Ethereum mainnet. Only 100,000,000 RPTR were minted and no more will ever exist. The tokens are not an investment opportunity.
+The Raptor token (symbol: RPTR) has been deployed to Ethereum mainnet. Only 100,000,000 RPTR were minted and no more will ever exist. The tokens are not an investment opportunity.
 
 
 # Community
