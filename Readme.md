@@ -11,6 +11,7 @@ The DNA of Raptor is our community. A community-run token is nothing without the
 1.	It’s the spirit of our project to create something out of nothing.
 2.	Starting with nothing means everyone has to bring something to the table.
 3. We give back to our community and share what we have learnt.
+
 It is a core philosophy of ours to provide a rich, fun and engaging experience.
 
 
