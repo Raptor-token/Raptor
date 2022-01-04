@@ -8,9 +8,9 @@ Raptor is owned by the community and is an open source project. Our community vo
 
 ## Founding Principles
 The DNA of Raptor is our community. A community-run token is nothing without the people who give it purpose. Whether you are a new recruit or part of the old guard, if you fly under the Raptor banner, you must embrace our founding principles:
-•	It’s the spirit of our project to create something out of nothing.
-•	Starting with nothing means everyone has to bring something to the table.
-•	We give back to our community and share what we have learnt.
+1.	It’s the spirit of our project to create something out of nothing.
+2.	Starting with nothing means everyone has to bring something to the table.
+3. We give back to our community and share what we have learnt.
 It is a core philosophy of ours to provide a rich, fun and engaging experience.
 
 
