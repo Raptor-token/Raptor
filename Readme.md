@@ -2,14 +2,10 @@
 
 ## WHAT IS RAPTOR?
 
-Raptor is an Ethereum focused DAO operating a network of community owned Validator Nodes, providing an essential public good, and supporting the infrastructure to onboard the next wave of users into Web3.
+Raptor is an Ethereum infrastructure DAO focused on maintaining ETH2 Validators, an essential public good, by supporting the infrastructure to onboard the next wave of users into Web3.
 
-Ether has become the primary reserve currency of the Web3 economy and there is no better asset to serve as the bedrock for a validator protocol that can thrive for years to come. 
+We believe the open source roots of Ethereum encourage communities to support each other and support the network. Our vision is to build a decentralized network of validators and strong brand identity that's owned and built by its community. 
 
-Our DAO is governed by the RAPTOR token, with a focus on staking Ethereum 2.0 Validator Nodes, providing an everlasting source of yield to fund the Protocol, Treasury and RaptorDAO.
-
-Our vision is to build a decentralized network of nodes and strong brand identity that's owned and built by its community. 
-
-A strong community representing Raptor will onboard thousands more people into our tribe. 
+Our DAO is governed by the RAPTOR token, with a focus on staking ETH2 Validators, providing an everlasting source of yield.
 
 To Learn more about Raptor visit our website at: https://raptor.wtf
